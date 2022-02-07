@@ -19,6 +19,6 @@ The Jakarta EE Specification Committee hereby adopts the https://www.eclipse.org
 . Specification Projects must engage in at least one Progress or Release Review  per year while in active development.
 
 All development that modifies content in the `javax` namespace must be moved to a `jakarta` namespace. All `jakarta` namespace development must occur within the scope of a Specification Project operating under the purview of the Jakarta EE Working Group’s Specification Committee and must implement the process as defined by the most recently adopted revision of the JESP.
-Use of the `jakarta` namespace is limited to API artifacts, hence is not allowed for any deployment, including applications used by TCKs.
+Use of the `jakarta` namespace is limited to API artifacts (all API jars, javadoc, and schema namespaces), hence is not allowed for any deployment, including applications used by TCKs.
 
 The EFSP takes precedence in cases where this document is silent. The primacy of the EFSP notwithstanding, this document takes precedence in all matters related to Specification development undertaken by Specification Projects within the purview of the Jakarta EE Working Group.
