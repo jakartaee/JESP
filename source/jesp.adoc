@@ -1,6 +1,6 @@
 = Jakarta EE Specification Process
 
-version 1.3. Effective April 5/2022
+version 1.4. Effective August 31/2022
 
 The Jakarta EE Specification Process (JESP) is concerned with the Specification Process as it applies to Specification Projects operating under the purview of the Jakarta EE Working Group. 
 
