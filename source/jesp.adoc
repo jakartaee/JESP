@@ -15,8 +15,8 @@ The Jakarta EE Specification Committee hereby adopts the https://www.eclipse.org
 .. Service Release Review: 14 calendar days; and
 .. JESP Update: 7 calendar days.
 . Each 7-day ballot will end after 7 days. Each 14-day ballot will conclude when either of the following occurs:
-.. A minimum of 7 days have elapsed and all eligible members have voted
-.. The 14 day ballot period has concluded
+.. A minimum of 7 days have elapsed and all eligible members have voted;
+.. The 14 day ballot period has concluded.
 
 . A ballot will be declared invalid and concluded immediately in the event that the Specifiation Team withdraws from the corresponding review.
 . Specification Projects must engage in at least one Progress or Release Review  per year while in active development.
